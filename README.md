@@ -1,2 +1,2 @@
-# Scoreboard
-base of how to make a scoreboard for java
+# Scoreboard | Minecraft
+base of how to make a scoreboard for Minecraft using java
